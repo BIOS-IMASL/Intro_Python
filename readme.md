@@ -10,6 +10,11 @@ Este repositorio contiene material didáctico para el dictado de un curso rápid
 * Dibujando con Matplotlib y con Seaborn
 * Manipulando datos con Pandas (TODO)
 
+## Material Bibliográfico
+* _Think Python_ [libro](http://greenteapress.com/thinkpython/thinkpython.pdf). 
+Un aversión anterior de este libro se tradujo al español: _Aprenda a Pensar Como un Programador con Python_ [libro](https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf)
+
+
 ## Instalación
 Para usar este material es necesario tener instalado Python (se recomienda la versión 3.4 o superior, aunque es posible que corra con Python 2.7 con ligeras modificaciones). Además es necesario instalar los siguientes paquetes:
 

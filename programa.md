@@ -27,9 +27,6 @@ Al finalizar el curso se espera que el participante sea capaz de:
 - Utilizar eficaz y eficientemente un enfoque basado en los principios de la programación científica para resolver problemas de diversa índole con Python.
 - Diseñar, codificar y depurar programas de complejidad baja a moderada utilizando Python.
 
-## Destinatarios: 
-El curso está dirigido a: informáticos, investigadores de distintas disciplinas científicas y demás interesados en la temática por los alcances de su ámbito laboral. Toda persona interesada debe tener conocimientos básicos de: i) informática básica, ii) sistemas operativos y i) programación (haber programado en algún lenguaje como C, Java, Fortran, etc.)
-
 
 ## Metodología y condiciones de aprobación:
 

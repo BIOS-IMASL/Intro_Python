@@ -12,9 +12,9 @@ CONICET-IMASL / UNSL
 ## Fundamentos: 
 
 Python es un lenguaje de alto nivel y de propósito general, lo que significa que se puede usar para resolver casi cualquier problema. Por otra parte, en el contexto de este lenguaje, se han desarrollado un sinnúmero de librerías/herramientas que facilitan su aplicación en una amplia gama de disciplinas y problemas.
-Profesionalmente, Python es considerado, entre otras cosas, para computación científica, análisis de datos e inteligencia artificial. Muchos desarrolladores también usan Python para desarrollo _back-end_ web, herramientas de productividad, aplicaciones de escritorio y hasta distintos tipos de juegos . 
+Profesionalmente, Python es considerado, entre otras cosas, para computación científica, análisis de datos e inteligencia artificial. Muchos desarrolladores también usan Python para desarrollo _back-end_ web, herramientas de productividad, aplicaciones de escritorio y hasta distintos tipos de juegos. 
 
-El término **programación científica** está relacionado a la utilización de _scripts_/programas orientados a la resolución analítica de un problema específico y formulado rigurosamente. Algunos ejemplos son: invocar funcionalidades de programas externos a través de lenguajes de alto nivel como Python, integrar aplicaciones (o _scripts_) en distintos lenguajes, realizar análisis de datos, realizar limpieza y depuración de grandes datos, utilizar expresiones regulares, parseo y análisis de información en formato texto, simular sistemas dinámicos, entre otras.
+El término **programación científica** está relacionado a la utilización de _scripts_/programas orientados a la resolución analítica de un problema específico y formulado rigurosamente. Algunos ejemplos son: invocar funcionalidades de programas externos a través de lenguajes de alto nivel (como Python), integrar aplicaciones (o _scripts_) en distintos lenguajes, realizar análisis de datos, realizar limpieza y depuración de grandes datos, utilizar expresiones regulares, parseo y análisis de información en formato texto, simular sistemas dinámicos, entre otras.
 
 Este curso propone brindar a los participantes una introducción a Python, un lenguaje ampliamente utilizado para programación científica.
 
